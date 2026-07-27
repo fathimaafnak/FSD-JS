@@ -139,7 +139,7 @@
 
 // conditional statements => if, if-else, if-else-if, switch-case
 
-let score = 56;
+// let score = 56;
 
 // if (score >= 40) {
 //     console.log("You have passed the exam.");
