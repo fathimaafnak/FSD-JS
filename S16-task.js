@@ -11,7 +11,6 @@ for (let i = 1; i <= 20; i++) {
 }
 
 
-
 let num = 30;
 
 while (num >= 1) {
