@@ -13,6 +13,8 @@
 
 
 // type conversion
+// Programmer മനപ്പൂർവം ഒരു data type മറ്റൊന്നാക്കി മാറ്റുന്നതാണ്.
+
 // let age = Number("35");
 
 // let city; //undefined
@@ -56,6 +58,7 @@
 
 
 // type coercion, auto
+// JavaScript സ്വയം (automatically) ഒരു data type മറ്റൊന്നാക്കി മാറ്റുന്നതാണ്.
 
 // console.log("10"+ 2); //102, string 
 // console.log(10 +"2"); //102, string 
